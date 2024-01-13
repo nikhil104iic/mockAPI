@@ -1,6 +1,70 @@
 {
-    "id": 1,
-    "fileName": "hitachi",
-    "fileType": ".pdf",
-    "fileContent": "1. This is a small demonstration .pdf file -\n\njust for use in the Virtual Mechanics tutorials. More text. And more\n\ntext. And more text. And more text. And more text.\n\nAnd more text. And more text. And more text. And more text. And more\ntext. And more text. Boring, zzzzz. And more text. And more text. And\nmore text. And more text. And more text. And more text. And more text.\nAnd more text. And more text.\n\nAnd more text. And more text. And more text. And more text. And more\ntext. And more text. And more text. Even more. Continued on page 2\nSimple PDF File 2\n...continued from page 1. Yet more text. And more text. And more text.\nAnd more text. And more text. And more text. And more text. And more\ntext. Oh, how boring typing this stuff. But not as boring as watching\npaint dry. And more text. And more text. And more text. And more text.\nBoring. More, a little more text. The end, and just as well.\n"
+    getAllFiles: {
+        [
+    {
+        "id": 1,
+        "fileName": "hitachi",
+        "filePath": "D:/Clients/Hitachi Gen AI/Hitachi DEMO/refApp/contentFile/sample.pdf",
+        "classification": "Guide",
+        "fileType": ".pdf",
+        "fileDesc": "Quick start guide",
+        "action": "Content extraction",
+        "fileSize": "",
+        "language": "en",
+        "isContentExtracted": true,
+        "receivedAt": 1705038563387,
+        "publishedBy": "sonali.gupta",
+        "publishedAt": 1705038563387,
+        "contentExtractedAt": 1705038563376
+    },
+    {
+        "id": 2,
+        "fileName": "hitachi",
+        "filePath": "D:/Clients/Hitachi Gen AI/Hitachi DEMO/refApp/contentFile/sample.pdf",
+        "classification": "Guide",
+        "fileType": ".pdf",
+        "fileDesc": "Quick start guide",
+        "action": "Content extraction",
+        "fileSize": "",
+        "language": "en",
+        "isContentExtracted": true,
+        "receivedAt": 1705038670011,
+        "publishedBy": "sonali.gupta",
+        "publishedAt": 1705038670011,
+        "contentExtractedAt": 1705038670009
+    },
+    {
+        "id": 3,
+        "fileName": "hitachi",
+        "filePath": "D:/Clients/Hitachi Gen AI/Hitachi DEMO/refApp/contentFile/sample.pdf",
+        "classification": "Guide",
+        "fileType": ".pdf",
+        "fileDesc": "Quick start guide",
+        "action": "Content extraction",
+        "fileSize": "",
+        "language": "en",
+        "isContentExtracted": true,
+        "receivedAt": 1705038785527,
+        "publishedBy": "sonali.gupta",
+        "publishedAt": 1705038785527,
+        "contentExtractedAt": 1705038785526
+    },
+    {
+        "id": 4,
+        "fileName": "hitachi",
+        "filePath": "D:/Clients/Hitachi Gen AI/Hitachi DEMO/refApp/contentFile/sample.pdf",
+        "classification": "Guide",
+        "fileType": ".pdf",
+        "fileDesc": "Quick start guide",
+        "action": "Content extraction",
+        "fileSize": "",
+        "language": "en",
+        "isContentExtracted": true,
+        "receivedAt": 1705039971490,
+        "publishedBy": "sonali.gupta",
+        "publishedAt": 1705039971489,
+        "contentExtractedAt": 1705039971485
+    },
+]
+    }
 }
